@@ -41,7 +41,7 @@ export const Footer = () => {
               <div className="w-12 h-12 rounded-2xl bg-primary flex items-center justify-center">
                 <Home className="w-6 h-6 text-primary-foreground" />
               </div>
-              <span className="text-2xl font-bold text-secondary-foreground">Dom Blasku</span>
+              <span className="text-2xl font-bold text-secondary-foreground">Ideal Service</span>
             </Link>
             <p className="text-secondary-foreground/60 mb-8 max-w-sm text-lg">
               {t("footer.description")}
@@ -49,23 +49,23 @@ export const Footer = () => {
             
             {/* Contact info */}
             <div className="space-y-4">
-              <a href="tel:+48123456789" className="flex items-center gap-3 text-secondary-foreground/80 hover:text-primary transition-colors">
+              <a href="tel:+48576322363" className="flex items-center gap-3 text-secondary-foreground/80 hover:text-primary transition-colors">
                 <div className="w-10 h-10 rounded-xl bg-secondary-foreground/10 flex items-center justify-center">
                   <Phone className="w-5 h-5" />
                 </div>
-                <span className="font-medium">+48 123 456 789</span>
+                <span className="font-medium">+48 576 322 363</span>
               </a>
-              <a href="mailto:kontakt@domblasku.pl" className="flex items-center gap-3 text-secondary-foreground/80 hover:text-primary transition-colors">
+              <a href="mailto:kontakt@idealservice.pl" className="flex items-center gap-3 text-secondary-foreground/80 hover:text-primary transition-colors">
                 <div className="w-10 h-10 rounded-xl bg-secondary-foreground/10 flex items-center justify-center">
                   <Mail className="w-5 h-5" />
                 </div>
-                <span className="font-medium">kontakt@domblasku.pl</span>
+                <span className="font-medium">kontakt@idealservice.pl</span>
               </a>
               <div className="flex items-center gap-3 text-secondary-foreground/60">
                 <div className="w-10 h-10 rounded-xl bg-secondary-foreground/10 flex items-center justify-center">
                   <MapPin className="w-5 h-5" />
                 </div>
-                <span>ul. Czysta 15, 00-001 Warszawa</span>
+                <span>ul. A. Szamarzewskiego 21/2, 60-514 Poznań</span>
               </div>
             </div>
           </div>
@@ -119,7 +119,7 @@ export const Footer = () => {
         <div className="container-narrow mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-secondary-foreground/50">
-              © {new Date().getFullYear()} Dom Blasku. {t("footer.rights")}
+              © {new Date().getFullYear()} Ideal Service Usługi Sprzątające Sp. z o.o. | NIP 7812104590 | KRS 0001221308. {t("footer.rights")}
             </p>
             
             {/* Social links */}

@@ -47,7 +47,7 @@ export const Navigation = () => {
               <Home className="w-5 h-5 text-primary-foreground" />
             </div>
             <span className="text-xl font-bold text-foreground">
-              Dom Blasku
+              Ideal Service
             </span>
           </Link>
 
@@ -69,11 +69,11 @@ export const Navigation = () => {
           <div className="hidden md:flex items-center gap-3">
             <LanguageSwitcher isScrolled={true} />
             <a
-              href="tel:+48123456789"
+              href="tel:+48576322363"
               className="flex items-center gap-2 text-sm font-medium transition-colors hover:text-primary text-foreground"
             >
               <Phone className="w-4 h-4" />
-              +48 123 456 789
+              +48 576 322 363
             </a>
             <Button variant="cta" size="default" asChild>
               <a href="#kontakt">{t("nav.freeQuote")}</a>

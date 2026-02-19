@@ -12,20 +12,20 @@ const Index = () => {
   return (
     <>
       <Helmet>
-        <title>Profesjonalne Sprzątanie Biur i Mieszkań | Dom Blasku Warszawa</title>
+        <title>Profesjonalne Sprzątanie Biur i Mieszkań | Ideal Service Poznań</title>
         <meta 
           name="description" 
-          content="Dom Blasku - profesjonalne usługi sprzątania biur, mieszkań i biurowców w Warszawie. Bezpłatna wycena w 24h. Ekologiczne środki, doświadczony zespół. Zadzwoń!" 
+          content="Ideal Service - profesjonalne usługi sprzątania biur, mieszkań i biurowców w Poznaniu. Bezpłatna wycena w 24h. Ekologiczne środki, doświadczony zespół. Zadzwoń!" 
         />
         <meta 
           name="keywords" 
-          content="sprzątanie biur, sprzątanie mieszkań, sprzątanie biurowców, firma sprzątająca Warszawa, usługi sprzątania, sprzątanie po remoncie, dom blasku" 
+          content="sprzątanie biur, sprzątanie mieszkań, sprzątanie biurowców, firma sprzątająca Poznań, usługi sprzątania, sprzątanie po remoncie, ideal service" 
         />
-        <link rel="canonical" href="https://domblasku.pl" />
+        <link rel="canonical" href="https://www.idealservice.pl" />
         
         {/* Open Graph */}
-        <meta property="og:title" content="Profesjonalne Sprzątanie Biur i Mieszkań | Dom Blasku" />
-        <meta property="og:description" content="Dom Blasku - profesjonalne usługi sprzątania dla firm i osób prywatnych. Bezpłatna wycena w 24h." />
+        <meta property="og:title" content="Profesjonalne Sprzątanie Biur i Mieszkań | Ideal Service" />
+        <meta property="og:description" content="Ideal Service - profesjonalne usługi sprzątania dla firm i osób prywatnych. Bezpłatna wycena w 24h." />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="pl_PL" />
         
@@ -34,16 +34,16 @@ const Index = () => {
           {JSON.stringify({
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "Dom Blasku - Profesjonalne Usługi Sprzątania",
-            "description": "Profesjonalne usługi sprzątania biur, mieszkań i biurowców w Warszawie",
-            "url": "https://domblasku.pl",
-            "telephone": "+48123456789",
-            "email": "kontakt@domblasku.pl",
+            "name": "Ideal Service Usługi Sprzątające Sp. z o.o.",
+            "description": "Profesjonalne usługi sprzątania biur, mieszkań i biurowców w Poznaniu",
+            "url": "https://www.idealservice.pl",
+            "telephone": "+48576322363",
+            "email": "kontakt@idealservice.pl",
             "address": {
               "@type": "PostalAddress",
-              "streetAddress": "ul. Czysta 15",
-              "addressLocality": "Warszawa",
-              "postalCode": "00-001",
+              "streetAddress": "ul. A. Szamarzewskiego 21/2",
+              "addressLocality": "Poznań",
+              "postalCode": "60-514",
               "addressCountry": "PL"
             },
             "priceRange": "$$",
@@ -53,8 +53,8 @@ const Index = () => {
               "@type": "GeoCircle",
               "geoMidpoint": {
                 "@type": "GeoCoordinates",
-                "latitude": 52.2297,
-                "longitude": 21.0122
+                "latitude": 52.4064,
+                "longitude": 16.9252
               },
               "geoRadius": "50000"
             }

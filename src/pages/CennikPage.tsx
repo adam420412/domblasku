@@ -12,12 +12,12 @@ export const CennikPage = () => {
   return (
     <>
       <Helmet>
-        <title>Cennik Usług Sprzątania | Dom Blasku Warszawa</title>
+        <title>Cennik Usług Sprzątania | Ideal Service Poznań</title>
         <meta 
           name="description" 
-          content="Sprawdź cennik usług sprzątania Dom Blasku. Transparentne ceny, brak ukrytych kosztów. Skorzystaj z kalkulatora i zamów bezpłatną wycenę." 
+          content="Sprawdź cennik usług sprzątania Ideal Service. Transparentne ceny, brak ukrytych kosztów. Skorzystaj z kalkulatora i zamów bezpłatną wycenę." 
         />
-        <link rel="canonical" href="https://domblasku.pl/cennik" />
+        <link rel="canonical" href="https://www.idealservice.pl/cennik" />
       </Helmet>
 
       <div className="min-h-screen">

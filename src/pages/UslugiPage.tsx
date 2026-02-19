@@ -55,12 +55,12 @@ export const UslugiPage = () => {
   return (
     <>
       <Helmet>
-        <title>Usługi Sprzątania | Dom Blasku Warszawa</title>
+        <title>Usługi Sprzątania | Ideal Service Poznań</title>
         <meta 
           name="description" 
-          content="Profesjonalne usługi sprzątania biur, mieszkań, biurowców i hoteli w Warszawie. Sprawdź naszą ofertę i zamów bezpłatną wycenę." 
+          content="Profesjonalne usługi sprzątania biur, mieszkań, biurowców i hoteli w Poznaniu. Sprawdź naszą ofertę i zamów bezpłatną wycenę." 
         />
-        <link rel="canonical" href="https://domblasku.pl/uslugi" />
+        <link rel="canonical" href="https://www.idealservice.pl/uslugi" />
       </Helmet>
 
       <div className="min-h-screen">
