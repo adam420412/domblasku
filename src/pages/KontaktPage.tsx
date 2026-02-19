@@ -12,19 +12,19 @@ export const KontaktPage = () => {
     {
       icon: Phone,
       title: t("contact.phone"),
-      value: "+48 123 456 789",
-      href: "tel:+48123456789"
+      value: "+48 576 322 363",
+      href: "tel:+48576322363"
     },
     {
       icon: Mail,
       title: t("contact.email"),
-      value: "kontakt@domblasku.pl",
-      href: "mailto:kontakt@domblasku.pl"
+      value: "kontakt@idealservice.pl",
+      href: "mailto:kontakt@idealservice.pl"
     },
     {
       icon: MapPin,
       title: t("contact.address"),
-      value: "ul. Czysta 15, 00-001 Warszawa",
+      value: "ul. A. Szamarzewskiego 21/2, 60-514 Poznań",
       href: null
     },
     {
@@ -38,12 +38,12 @@ export const KontaktPage = () => {
   return (
     <>
       <Helmet>
-        <title>Kontakt | Dom Blasku Warszawa</title>
+        <title>Kontakt | Ideal Service Poznań</title>
         <meta 
           name="description" 
-          content="Skontaktuj się z Dom Blasku - profesjonalne usługi sprzątania w Warszawie. Zadzwoń, napisz lub wypełnij formularz. Odpowiemy w 24h!" 
+          content="Skontaktuj się z Ideal Service - profesjonalne usługi sprzątania w Poznaniu. Zadzwoń, napisz lub wypełnij formularz. Odpowiemy w 24h!" 
         />
-        <link rel="canonical" href="https://domblasku.pl/kontakt" />
+        <link rel="canonical" href="https://www.idealservice.pl/kontakt" />
       </Helmet>
 
       <div className="min-h-screen">

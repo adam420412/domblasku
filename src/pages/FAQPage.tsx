@@ -14,12 +14,12 @@ export const FAQPage = () => {
   return (
     <>
       <Helmet>
-        <title>FAQ - Najczęstsze Pytania | Dom Blasku Warszawa</title>
+        <title>FAQ - Najczęstsze Pytania | Ideal Service Poznań</title>
         <meta 
           name="description" 
-          content="Odpowiedzi na najczęściej zadawane pytania o usługi sprzątania Dom Blasku. Dowiedz się więcej o naszych usługach, cenach i gwarancjach." 
+          content="Odpowiedzi na najczęściej zadawane pytania o usługi sprzątania Ideal Service. Dowiedz się więcej o naszych usługach, cenach i gwarancjach." 
         />
-        <link rel="canonical" href="https://domblasku.pl/faq" />
+        <link rel="canonical" href="https://www.idealservice.pl/faq" />
       </Helmet>
 
       <div className="min-h-screen">
@@ -61,9 +61,9 @@ export const FAQPage = () => {
                 
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   <Button variant="cta" size="lg" asChild>
-                    <a href="tel:+48123456789">
+                    <a href="tel:+48576322363">
                       <Phone className="w-5 h-5 mr-2" />
-                      +48 123 456 789
+                      +48 576 322 363
                     </a>
                   </Button>
                   <Button variant="outline" size="lg" asChild>

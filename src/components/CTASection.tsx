@@ -69,7 +69,7 @@ export const CTASection = () => {
                 className="border-white/30 text-white hover:bg-white/10"
                 asChild
               >
-                <a href="tel:+48123456789">
+                <a href="tel:+48576322363">
                   <Phone className="w-5 h-5 mr-2" />
                   {t("cta.phone")}
                 </a>
@@ -82,7 +82,7 @@ export const CTASection = () => {
             <div className="bg-white/10 backdrop-blur-sm rounded-3xl p-8 border border-white/20">
               <div className="text-center mb-8">
                 <div className="text-6xl font-bold text-white mb-2">500+</div>
-                <div className="text-white/80">Zadowolonych klientów w Warszawie</div>
+                <div className="text-white/80">Zadowolonych klientów w Poznaniu</div>
               </div>
               
               <div className="grid grid-cols-2 gap-4">

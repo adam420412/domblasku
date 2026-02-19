@@ -19,12 +19,12 @@ export const OpiniePage = () => {
   return (
     <>
       <Helmet>
-        <title>Opinie Klientów | Dom Blasku Warszawa</title>
+        <title>Opinie Klientów | Ideal Service Poznań</title>
         <meta 
           name="description" 
-          content="Zobacz opinie naszych klientów o usługach sprzątania Dom Blasku. Ponad 500 zadowolonych klientów w Warszawie i okolicach." 
+          content="Zobacz opinie naszych klientów o usługach sprzątania Ideal Service. Ponad 500 zadowolonych klientów w Poznaniu i okolicach." 
         />
-        <link rel="canonical" href="https://domblasku.pl/opinie" />
+        <link rel="canonical" href="https://www.idealservice.pl/opinie" />
       </Helmet>
 
       <div className="min-h-screen">

@@ -16,19 +16,19 @@ export const ContactSection = () => {
     {
       icon: Phone,
       labelKey: "contact.phone",
-      value: "+48 123 456 789",
-      href: "tel:+48123456789",
+      value: "+48 576 322 363",
+      href: "tel:+48576322363",
     },
     {
       icon: Mail,
       labelKey: "contact.email",
-      value: "kontakt@domblasku.pl",
-      href: "mailto:kontakt@domblasku.pl",
+      value: "kontakt@idealservice.pl",
+      href: "mailto:kontakt@idealservice.pl",
     },
     {
       icon: MapPin,
       labelKey: "contact.address",
-      value: "ul. Czysta 15, 00-001 Warszawa",
+      value: "ul. A. Szamarzewskiego 21/2, 60-514 Poznań",
       href: "#",
     },
     {
@@ -215,7 +215,7 @@ export const ContactSection = () => {
               {/* Google Maps */}
               <div className="h-64 rounded-2xl overflow-hidden border border-border">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2443.3913185268424!2d21.00732731580091!3d52.23194506437542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc8c92692e49%3A0xc2e97ae5311f2dc2!2sWarsaw%2C%20Poland!5e0!3m2!1sen!2sus!4v1704067200000!5m2!1sen!2sus"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2434.5!2d16.9152!3d52.4064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47045b3a3a3a3a3a%3A0x0!2sul.%20A.%20Szamarzewskiego%2021%2C%2060-514%20Pozna%C5%84!5e0!3m2!1spl!2spl!4v1704067200000!5m2!1spl!2spl"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}
