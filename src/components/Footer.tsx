@@ -119,7 +119,7 @@ export const Footer = () => {
         <div className="container-narrow mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-secondary-foreground/50">
-              © {new Date().getFullYear()} Ideal Service Usługi Sprzątające Sp. z o.o. | NIP 7812104590 | KRS 0001221308. {t("footer.rights")}
+              © {new Date().getFullYear()} Ideal Service Usługi Sprzątające Sp. z o.o. | NIP 7812104590 | KRS 0001221308 {t("footer.rights")}
             </p>
             
             {/* Social links */}
