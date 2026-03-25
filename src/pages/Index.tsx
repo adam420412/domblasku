@@ -19,7 +19,7 @@ const Index = () => {
         />
         <meta 
           name="keywords" 
-          content="sprzątanie biur, sprzątanie mieszkań, sprzątanie biurowców, firma sprzątająca Poznań, usługi sprzątania, sprzątanie po remoncie, ideal service" 
+          content="sprzątanie biur, sprzątanie mieszkań, sprzątanie biurowców, firma sprzątająca Poznań, usługi sprzątania, sprzątanie po remoncie" 
         />
         <link rel="canonical" href="https://www.idealservice.pl" />
         
