@@ -12,7 +12,7 @@ const Index = () => {
   return (
     <>
       <Helmet>
-        <title>Profesjonalne Sprzątanie Biur i Mieszkań | Ideal Service Poznań</title>
+        <title>Profesjonalna Firma Sprzątająca Poznań | Ideal Service</title>
         <meta 
           name="description" 
           content="Ideal Service - profesjonalne usługi sprzątania biur, mieszkań i biurowców w Poznaniu. Bezpłatna wycena w 24h. Ekologiczne środki, doświadczony zespół. Zadzwoń!" 
