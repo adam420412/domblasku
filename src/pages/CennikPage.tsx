@@ -12,7 +12,7 @@ export const CennikPage = () => {
   return (
     <>
       <Helmet>
-        <title>Cennik Usług Sprzątania | Ideal Service Poznań</title>
+        <title>Cennik Usługi Sprzątania | Ideal Service Poznań</title>
         <meta 
           name="description" 
           content="Sprawdź cennik usług sprzątania Ideal Service. Transparentne ceny, brak ukrytych kosztów. Skorzystaj z kalkulatora i zamów bezpłatną wycenę." 
