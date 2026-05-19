@@ -55,10 +55,10 @@ export const UslugiPage = () => {
   return (
     <>
       <Helmet>
-        <title>Usługi Sprzątania | Ideal Service Poznań</title>
+        <title>Usługi Sprzątające Poznań – Sprzątanie Biur i Mieszkań</title>
         <meta 
           name="description" 
-          content="Profesjonalne usługi sprzątania biur, mieszkań, biurowców i hoteli w Poznaniu. Sprawdź naszą ofertę i zamów bezpłatną wycenę." 
+          content="Kompleksowe usługi sprzątające w Poznaniu. Profesjonalne sprzątanie po remoncie, biur oraz mieszkań. Zobacz pełen zakres prac i postaw na czystość!" 
         />
         <link rel="canonical" href="https://www.idealservice.pl/uslugi" />
       </Helmet>
