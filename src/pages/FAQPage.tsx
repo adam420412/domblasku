@@ -14,10 +14,10 @@ export const FAQPage = () => {
   return (
     <>
       <Helmet>
-        <title>FAQ - Najczęstsze Pytania | Ideal Service Poznań</title>
+        <title>Sprzątanie Poznań - Pytania i Odpowiedzi | FAQ Ideal Service</title>
         <meta 
           name="description" 
-          content="Odpowiedzi na najczęściej zadawane pytania o usługi sprzątania Ideal Service. Dowiedz się więcej o naszych usługach, cenach i gwarancjach." 
+          content="Masz pytania o sprzątanie w Poznaniu? Znajdź odpowiedzi dotyczące terminów, cen i zakresu sprzątania po remoncie oraz biur. Rozwiewamy wszelkie wątpliwości!" 
         />
         <link rel="canonical" href="https://www.idealservice.pl/faq" />
       </Helmet>
