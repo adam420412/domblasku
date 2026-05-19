@@ -19,10 +19,10 @@ export const OpiniePage = () => {
   return (
     <>
       <Helmet>
-        <title>Opinie Klientów | Ideal Service Poznań</title>
+        <title>Opinie o Ideal Service | Polecana Firma Sprzątająca Poznań</title>
         <meta 
           name="description" 
-          content="Zobacz opinie naszych klientów o usługach sprzątania Ideal Service. Ponad 500 zadowolonych klientów w Poznaniu i okolicach." 
+          content="Poznaj opinie o Ideal Service. Zobacz, dlaczego klienci polecają nasze usługi sprzątania biur i mieszkań w Poznaniu. Dołącz do grona zadowolonych osób!" 
         />
         <link rel="canonical" href="https://www.idealservice.pl/opinie" />
       </Helmet>
