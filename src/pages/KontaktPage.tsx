@@ -38,10 +38,10 @@ export const KontaktPage = () => {
   return (
     <>
       <Helmet>
-        <title>Kontakt | Ideal Service Poznań</title>
+        <title>Kontakt | Ideal Service - Twoja Firma Sprzątająca w Poznaniu</title>
         <meta 
           name="description" 
-          content="Skontaktuj się z Ideal Service - profesjonalne usługi sprzątania w Poznaniu. Zadzwoń, napisz lub wypełnij formularz. Odpowiemy w 24h!" 
+          content="Potrzebujesz sprzątania w Poznaniu? Skontaktuj się z nami! Szybka wycena sprzątania biur, mieszkań i usług poremontowych. Zadzwoń: +48 576 322 363." 
         />
         <link rel="canonical" href="https://www.idealservice.pl/kontakt" />
       </Helmet>
