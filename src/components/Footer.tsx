@@ -65,7 +65,7 @@ export const Footer = () => {
                 <div className="w-10 h-10 rounded-xl bg-secondary-foreground/10 flex items-center justify-center">
                   <MapPin className="w-5 h-5" />
                 </div>
-                <span>ul. A. Szamarzewskiego 21/2, 60-514 Poznań</span>
+                <span>ul. Szamarzewskiego 21/2, 60-516 Poznań</span>
               </div>
             </div>
           </div>
