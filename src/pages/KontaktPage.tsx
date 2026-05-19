@@ -24,7 +24,7 @@ export const KontaktPage = () => {
     {
       icon: MapPin,
       title: t("contact.address"),
-      value: "ul. A. Szamarzewskiego 21/2, 60-514 Poznań",
+      value: "Mikołaja Reja 20, 80-404 Gdańsk",
       href: null
     },
     {
